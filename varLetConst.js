@@ -31,5 +31,5 @@ const student = {
 
 student.campus = "Trafalgar";
 
-const COLORS = ["red", "blue"];
+const COLOURS = ["red", "blue"];
 CLOURS[0] = "green";
